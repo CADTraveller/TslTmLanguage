@@ -1,0 +1,26 @@
+{
+    "name": "tsl",
+    "displayName": "TSL Scripting",
+    "description": "Syntax Colorizer and common snippets for Tsl Scripts",
+    "version": "0.0.1",
+    "publisher": "cvcolomb",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "tsl",
+            "aliases": ["Tsl", "tsl"],
+            "extensions": ["mcr"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "tsl",
+            "scopeName": "source.tsl",
+            "path": "./syntaxes/tsl.tmLanguage.json"
+        }]
+    }
+}
