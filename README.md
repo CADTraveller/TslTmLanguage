@@ -4,7 +4,7 @@ This extension provides colorizer support for http://www.hsbcad.com Tool Scripti
 
 ## Features
 
-Tags Types, Operators, Constants, Strings, and numeric characters for colorizing either by your theme defaults, or to TSL standards when using TslColorizer theme (based off Monokai-black)
+Tags Types, Operators, Constants, Strings, and numeric characters for colorizing either by your theme defaults, or to TSL standards when using the included TslColors theme (based off Monokai-black)
 
 ## Requirements
 
