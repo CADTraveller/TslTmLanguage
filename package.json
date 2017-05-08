@@ -2,7 +2,7 @@
     "name": "tsl",
     "displayName": "TSL Colors",
     "description": "VS Code Language support for Tsl Scripts (.mcr)",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "publisher": "cvcolomb",
     "icon": "images/hsbHouse.png",
     "galleryBanner": {

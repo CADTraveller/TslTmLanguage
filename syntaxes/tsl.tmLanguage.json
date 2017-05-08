@@ -47,7 +47,7 @@
 				},
 				{
 					"name": "constant.numeric.tsl",
-					"match": "\\b(\\d)\\b"
+					"match":  "\\b(\\d+)\\b"
 				}
 			]
 

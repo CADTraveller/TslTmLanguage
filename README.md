@@ -25,5 +25,13 @@ Numerics in unit notation (U(25.4), U(25.4, "mm")) not yet properly recognized.
 
 Initial public release to Marketplace
 
+### 0.7.0
+
+Improved description and keywords
+
+### 0.7.1
+
+Improved recognition of numerics
+
 
 
